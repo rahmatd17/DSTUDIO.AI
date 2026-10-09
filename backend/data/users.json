@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "31b4348d9e7c",
+      "username": "admin",
+      "role": "admin",
+      "salt": "384015f0dbd074f10595586fa7075779",
+      "hash": "4b27c9ce3efd71fae3537e14a7d47983182bd9a20b09394935a2daf5c0c45145f496372f1f0264e1945f236e3d404b4fc9ccfec89824ed96ddcfba440a100958",
+      "disabled": false,
+      "createdAt": "2026-10-07T07:06:01.886Z",
+      "lastLogin": "2026-10-07T10:50:07.705Z"
+    },
+    {
+      "id": "113978f5591b",
+      "username": "ella",
+      "role": "user",
+      "salt": "88a336ac04532dc1949aa645e46315eb",
+      "hash": "c255454752dc15cccc39a4f8b75512ae1d3b5bf75f1dd6eeb705d074fe445ca4bbec3fb6228afca3535bb854b98acade742ae4d99d4831385df77ff14f1714c9",
+      "disabled": false,
+      "createdAt": "2026-10-07T17:45:24.007Z",
+      "lastLogin": "2026-10-09T08:25:11.875Z"
+    }
+  ]
+}
